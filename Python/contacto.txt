@@ -1,0 +1,4 @@
+Nombre: Adriano Figueroa
+Edad:  37 años
+Ciudad: Zipaquira Cundinamarca
+Profecion: Desarrollador Proo Con Claude Code Y Python
